@@ -1,0 +1,105 @@
+@media screen and (max-width: 1080px){
+	iframe{
+			width : 100%;
+			height: auto;
+	}
+	
+}
+@media screen and (max-width: 640px){
+	iframe{
+			width : 100%;
+			height: auto;
+	}
+	
+}
+
+@media screen and (max-width: 400px){
+	iframe{
+			width : 100%;
+			height: auto;
+	}
+	
+}
+
+
+
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+}
+
+
+.bgimg {
+  
+    
+	width : 100%;
+	height: 20%;
+	
+}
+
+
+.menu {
+    display: none;
+}
+
+
+
+#coffe_equipments_info:hover{
+	-webkit-transform:scale(2);
+    transform:scale(1.5);
+}
+img:hover{
+	-webkit-transform:scale(2);
+    transform:scale(1.5);
+}
+
+#active_link_index{
+	
+	background-color: white;
+	color: black;
+	
+}
+
+#active_link_howto{
+	
+	background-color: white;
+	color: black;
+	
+}
+
+#active_link_speciality{
+
+	background-color: white;
+	color: black;
+	
+}
+#active_link_resources{
+	background-color: white;
+	color: black;
+}
+
+#active_link_history{
+	
+	background-color: white;
+	color: black;
+	
+}
+
+.center_video{
+	text-align: center;
+
+}
+
+.p_content{
+	
+		text-align: justify;
+
+}
+figcaption{
+	text-align: center;
+}
+
+.coffee_equipments{
+	border: 1px solid black;
+}
+
